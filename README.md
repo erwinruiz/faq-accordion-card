@@ -11,8 +11,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -25,11 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/desktop-design.png)
+![](./screenshots/mobile-design.png)
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://erwinruiz.github.io/faq-accordion-card/)
 
 ## My process
 
@@ -39,3 +38,4 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- JavaScript
