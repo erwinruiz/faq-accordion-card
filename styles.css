@@ -20,7 +20,7 @@ body {
   font-family: "Kumbh Sans", sans-serif;
 }
 section {
-  background-color: hsl(240, 5%, 91%);
+  background-color: white;
   width: 340px;
   height: 590px;
   border-radius: 20px;
@@ -58,7 +58,7 @@ section .questions h1 {
   color: hsl(238, 29%, 16%);
 }
 section .question {
-  border-bottom: 1px solid hsla(240, 6%, 50%, 0.219);
+  border-bottom: 1px solid hsl(240, 5%, 91%);
   cursor: pointer;
   padding: 20px 0;
 }
